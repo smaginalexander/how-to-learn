@@ -1,0 +1,8 @@
+.cards__item {
+    width: 240px;
+    text-align: center; 
+    margin-top: 60px;
+    }
+.cards__item:last-of-type {
+    margin-right: 340px;
+    }
