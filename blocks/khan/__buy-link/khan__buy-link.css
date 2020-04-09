@@ -3,7 +3,7 @@
     font-size: 30px;
     color: #2F80ED;
     text-decoration: none;
-    height: 50px;
+    align-self: flex-start;
     transition: 1s;
   }
   
